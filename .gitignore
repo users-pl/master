@@ -1,0 +1,8 @@
+.bash_history
+.bash_logout
+.ssh
+.cache
+.viminfo
+src
+work
+tmp
